@@ -1,4 +1,4 @@
-🧭 GetSetGo-Agentic-AI
+# 🧭 GetSetGo-Agentic-AI
 
 An AI-powered travel assistant built on IBM Cloud using the Mistral Large model
 
