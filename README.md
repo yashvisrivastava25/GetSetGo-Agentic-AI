@@ -18,8 +18,8 @@ This project uses the Mistral Large language model and runs on IBM Cloud, combin
 
 🌩️ Deployed on IBM Cloud: Scalable, secure, and production-ready
 
-🧠 Model: Mistral Large
-The assistant is powered by Mistral Large, a high-performance open-weight language model capable of:
+🧠 Model: granite 3-3-8b
+The assistant is powered by granite 3-3-8b, a high-performance open-weight language model capable of:
 
 Multi-step reasoning
 
