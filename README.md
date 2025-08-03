@@ -5,7 +5,7 @@ An AI-powered travel assistant built on IBM Cloud using the granite 3-3-8b model
 🌐 Overview
 GetSetGo-Agentic-AI is an intelligent travel planning assistant that helps users design personalized itineraries, discover destinations, and automate travel decisions — all through natural conversation.
 
-This project uses the Mistral Large language model and runs on IBM Cloud, combining agentic AI capabilities with cloud scalability and reliability.
+This project uses the granite 3-3-8b model and runs on IBM Cloud, combining agentic AI capabilities with cloud scalability and reliability.
 
 💡 Key Features
 🧠 Agentic AI Workflow: Goal-driven reasoning and task execution
